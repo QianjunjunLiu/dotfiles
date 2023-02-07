@@ -3,6 +3,7 @@
 # for examples
 
 # If not running interactively, don't do anything
+alias lla='ls -la'
 case $- in
     *i*) ;;
       *) return;;
